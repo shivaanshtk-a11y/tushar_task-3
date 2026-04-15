@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+}
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: lime;
+    color: red;
+}
+
+p {
+    color: white;
+}
+
+#para {
+    color: green;
+}
+
+.black-text {
+    color: black;
+    font-size: 1.2em;
+}
+
+strong {
+    color: blue;
+    font-weight: bold;
+}
